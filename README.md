@@ -1,8 +1,5 @@
 ### This is Subham Subhasis Patra!
 
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
-[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
-
 ### Achievements
 
 Do you have or know an Achievement not listed [here](https://github.com/SubhamSubhasisPatra?tab=achievements)? Let me know! :)
@@ -14,6 +11,7 @@ Do you have or know an Achievement not listed [here](https://github.com/SubhamSu
 
 
 <div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/SubhamSubhasisPatra/SubhamSubhasisPatra/master/MeagerHardtofindAlbertosaurus-size_restricted.gif" width="190" height="120" autoplay/>
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150" autoplay/>
 </div>
 <div align="center" id="badges">
@@ -69,7 +67,7 @@ Tech Stack
 
 <div id="stats" align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamsubhasispatra&show_icons=true&theme=vue-dark&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamsubhasispatra&show_icons=true&theme=vue-dark&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhamsubhasispatra&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
