@@ -12,54 +12,61 @@ Do you have or know an Achievement not listed [here](https://github.com/SubhamSu
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/subhamsubhasispatra/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/subhamsubhasispatra/)
 
-<!--
-**Schweinepriester/Schweinepriester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150" autoplay/>
 </div>
 <div align="center" id="badges">
-  <a href="https://www.hackerrank.com/ratul_hasan">
+  <a href="[https://www.hackerrank.com/ratul_hasan](https://www.hackerrank.com/subhamsubhasis)">
     <img src="https://img.shields.io/badge/HackerRank-success?style=for-the-badge&logo=hackerrank&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/ratul-hasan-507129237">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://stackoverflow.com/users/18252591/ratul-hasan?tab=profile">
+  <a href="https://stackoverflow.com/users/10570510/subham-subhasis-patra?tab=profile">
     <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center">
-  <img width="150" src="https://komarev.com/ghpvc/?username=RatulHasanRahat&style=for-the-badge&color=blue" alt=""/>
-</div>
----
-### 🚀&nbsp;About Me
-💻 I am a computer science student
-- I am learning more about Data Structures & Algorithms
-- In my free time, I solve problems on <a href="https://www.hackerrank.com/ratul_hasan">HackerRank</a> and read tech articles
-- How to contact me&#8194;<a href="https://t.me/ratulhasanrahat"><img src="https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ratul-hasan-507129237"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-<!-- ### &nbsp; Languages I Know
+
+&nbsp;
+&nbsp;
+
+<h2>🚀 About Me</h2>
+<div> 
+  <ul> 
+    <li>💻 I am a Developer !</li>
+    <li>Great at Data Structures & Algorithms and problem solving !</li>
+  </ul>
+</div
+  
+Tech Stack
+  
+  ```json
+{
+   "languages": ["JS/TS", "Go", "Python"],
+   "backend": ["NodeJS", "Django", "Managed Cloud Services in AWS"],
+   "frontend": ["React, Hooks", "Redux", "HTML/CSS"],
+   "databases": ["Mongodb", "PostgreSQL", "DocumentDb", "ClickhouseDb", "Cassandra"],
+   "other skills":["Cloud Technologies (Docker/K8s)", "CI/CD Pipelines", "Data Structure and Algorithms"]
+}
+```
+  
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
 </div>
----  
-### ⚡&nbsp;My Stats
--->
+
+
 <div id="stats" align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamsubhasispatra&show_icons=true&theme=vue-dark&hide_border=true)
