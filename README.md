@@ -1,3 +1,6 @@
+
+<a target="_blank" href="https://github.com/subhamsubhasispatra"><img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150" autoplay/></a>
+
 ### This is Subham Subhasis Patra!
 
 ### Achievements
@@ -10,12 +13,9 @@ Do you have or know an Achievement not listed [here](https://github.com/SubhamSu
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/subhamsubhasispatra/)
 
 
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/SubhamSubhasisPatra/SubhamSubhasisPatra/master/MeagerHardtofindAlbertosaurus-size_restricted.gif" width="190" height="120" autoplay/>
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150" autoplay/>
-</div>
+
 <div align="center" id="badges">
-  <a href="[https://www.hackerrank.com/ratul_hasan](https://www.hackerrank.com/subhamsubhasis)">
+  <a href="https://www.hackerrank.com/subhamsubhasis">
     <img src="https://img.shields.io/badge/HackerRank-success?style=for-the-badge&logo=hackerrank&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/10570510/subham-subhasis-patra?tab=profile">
@@ -23,8 +23,6 @@ Do you have or know an Achievement not listed [here](https://github.com/SubhamSu
   </a>
 </div>
 
-&nbsp;
-&nbsp;
 
 <h2>🚀 About Me</h2>
 <div> 
