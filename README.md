@@ -64,5 +64,7 @@ Tech Stack
 
 
 <div id="stats" align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamsubhasispatra&show_icons=true&theme=vue-dark&hide_border=true)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamsubhasispatra&show_icons=true&theme=vue-dark&hide_border=true)
+  
 </div>
