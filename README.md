@@ -1,5 +1,5 @@
 
-<a target="_blank" href="https://github.com/subhamsubhasispatra"><img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150" autoplay/></a>
+<a target="_blank" href="https://github.com/subhamsubhasispatra"><img align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="350" autoplay/></a>
 
 ### This is Subham Subhasis Patra!
 
