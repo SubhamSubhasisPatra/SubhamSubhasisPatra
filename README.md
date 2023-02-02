@@ -27,7 +27,7 @@
 <div> 
   <ul> 
     <li>💻 I am a Developer !</li>
-    <li>Great at Data Structures & Algorithms and problem solving !</li>
+    <li>Love solving problem, for myself and for others aswell 😉 !</li>
   </ul>
 </div
   
