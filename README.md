@@ -27,7 +27,7 @@
 <div> 
   <ul> 
     <li>💻 I am a Developer !</li>
-    <li>Love solving problem, for myself and for others aswell 😉 !</li>
+    <li>Love solving problems, for myself and for others as well 😉 !</li>
   </ul>
 </div
   
@@ -36,10 +36,10 @@ Tech Stack
   ```json
 {
    "languages": ["JS/TS", "Go", "Python"],
-   "backend": ["NodeJS", "Django", "Managed Cloud Services in AWS"],
-   "frontend": ["React, Hooks", "Redux", "HTML/CSS"],
-   "databases": ["Mongodb", "PostgreSQL", "DocumentDb", "ClickhouseDb", "Cassandra", "Redis"],
-   "other skills":["Cloud Technologies (Docker/K8s)", "CI/CD Pipelines", "Data Structure and Algorithms"]
+   "backend": ["NodeJS", "Django"],
+   "frontend": ["React, Hooks", "Redux", "HTML"],
+   "databases": ["Mongodb", "PostgreSQL", "DocumentDb", "ClickhouseDb", "Redis"],
+   "other skills":["Docker", "Data Structure and Algorithms", "AWS"]
 }
 ```
   
