@@ -61,9 +61,3 @@ Tech Stack
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
 </div>
 
-
-<div id="stats" align="center">
-  
-![stat](https://github-readme-stats.vercel.app/api?username=subhamsubhasispatra&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&include_all_commits=true&show_icons=true&icon_color=BDC5CD) 
-
-</div>
