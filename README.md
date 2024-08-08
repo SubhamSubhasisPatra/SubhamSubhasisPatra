@@ -35,7 +35,7 @@ Tech Stack
   
   ```json
 {
-   "languages": ["JS", "TS, "Go", "Python"],
+   "languages": ["JS", "TS", "Go", "Python"],
    "backend": ["NodeJS", "Django"],
    "frontend": ["React, Hooks", "Redux", "HTML"],
    "databases": ["Mongodb", "PostgreSQL", "ClickhouseDb", "Redis"],
