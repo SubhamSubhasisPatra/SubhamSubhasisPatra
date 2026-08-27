@@ -4,7 +4,7 @@
 
 **Available for freelance / contract** — Python · React · Node.js · AWS · Kafka  
 Bengaluru (IST) · overlap with US mornings & EU afternoons  
-[subhasispatra94@gmail.com](mailto:subhamsubhasis01@gmail.com) · [LinkedIn](https://www.linkedin.com/in/subhamsubhasispatra/)
+[subhamsubhasis01@gmail.com](mailto:subhamsubhasis01@gmail.com) · [LinkedIn](https://www.linkedin.com/in/subhamsubhasispatra/)
 
 Software Engineer II at JPMorgan Chase. Previously Cambium Networks. I ship production backends, React dashboards, and event-driven pipelines that hold up at scale.
 
